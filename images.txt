@@ -1,1 +1,1 @@
-pentaho/pentaho-kettle:latest
+restcloud/restcloud-etl:V2.7
