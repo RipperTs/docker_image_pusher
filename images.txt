@@ -1,1 +1,1 @@
-wgzhao/addax:latest
+pentaho/kettle
