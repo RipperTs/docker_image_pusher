@@ -1,1 +1,1 @@
-pentaho/kettle
+pentaho/pentaho-kettle:latest
