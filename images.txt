@@ -1,1 +1,1 @@
-wslmf/text-similarity-analysis:latest
+wslmf/text-similarity-analysis
