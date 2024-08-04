@@ -1,2 +1,1 @@
-kibana:8.12.2
-kibana:8.14.2
+louislam/uptime-kuma:1
