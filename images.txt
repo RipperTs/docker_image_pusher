@@ -1,1 +1,1 @@
-calciumion/new-api
+redis:latest
