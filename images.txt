@@ -1,1 +1,2 @@
-postgres
+wslmf/easygpts:V4.8.8-alpha5
+wslmf/easygpts:latest
