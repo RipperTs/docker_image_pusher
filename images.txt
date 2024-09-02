@@ -1,2 +1,1 @@
-alpine/socat
-airbyte/init
+airbyte/init:0.63.13
