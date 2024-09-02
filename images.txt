@@ -1,1 +1,8 @@
-airbyte/init:0.63.13
+airbyte/db:0.63.13
+airbyte/worker:0.63.13
+airbyte/server:0.63.13
+airbyte/webapp:0.63.13
+airbyte/temporal:0.63.13
+airbyte/cron:0.63.13
+airbyte/connector-builder-server:0.63.13
+airbyte/proxy:0.63.13
