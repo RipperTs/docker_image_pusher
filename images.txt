@@ -1,8 +1,1 @@
-airbyte/bootloader:0.63.13
-airbyte/airbyte-proxy:0.63.13
-airbyte/worker:0.63.13
-airbyte/airbyte-temporal:0.63.13
-airbyte/airbyte-connector-builder-server:0.63.13
-airbyte/docker-proxy:0.63.13
-airbyte/connector-builder-server:0.63.13
-airbyte/airbyte-cron:0.63.13
+wxxxcxx/ms-ra-forwarder:latest
