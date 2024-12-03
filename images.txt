@@ -1,1 +1,2 @@
-vinlic/kimi-free-api:latest
+node:lts-alpine
+node:lts
