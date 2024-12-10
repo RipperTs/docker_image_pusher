@@ -1,2 +1,1 @@
-node:lts-alpine
-node:lts
+ghcr.io/open-webui/open-webui
