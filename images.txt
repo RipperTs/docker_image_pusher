@@ -1,4 +1,1 @@
-songangweb/durl-portal:v1.0.4
-songangweb/durl-openapi:v1.0.4
-songangweb/durl-jump:v1.0.4
-songangweb/durl-backend:v1.0.4
+leezhuuu/code_interpreter:latest
