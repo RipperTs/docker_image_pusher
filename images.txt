@@ -1,1 +1,2 @@
-leezhuuu/code_interpreter:latest
+postgres:17.2
+postgres:latest
