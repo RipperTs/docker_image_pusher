@@ -1,2 +1,1 @@
-postgres:17.2
-postgres:latest
+seafileltd/seafile-mc:12.0-latest
