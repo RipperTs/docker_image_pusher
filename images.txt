@@ -1,1 +1,1 @@
-kodcloud/kodbox
+python:3.11-slim
