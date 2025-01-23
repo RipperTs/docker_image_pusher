@@ -1,1 +1,1 @@
-xhofe/alist:latest
+metacubex/mihomo
