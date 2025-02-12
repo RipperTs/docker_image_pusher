@@ -1,1 +1,1 @@
-wslmf/mineru-api
+lmsysorg/sglang:latest
