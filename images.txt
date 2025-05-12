@@ -1,2 +1,1 @@
-ghcr.io/labring/fastgpt-sandbox:latest
-ghcr.io/labring/fastgpt-sandbox:v4.9.3
+xxnuo/mtranserver:latest
