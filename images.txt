@@ -1,1 +1,1 @@
-ghcr.io/conardli/easy-dataset
+rabbitmq:3-management
