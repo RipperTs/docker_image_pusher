@@ -1,1 +1,1 @@
-linuxserver/radarr
+flaresolverr/flaresolverr
