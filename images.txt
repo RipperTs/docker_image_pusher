@@ -1,1 +1,1 @@
-golangboyme/wxocr
+breezedeus/cnocr:latest
