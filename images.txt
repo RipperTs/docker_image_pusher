@@ -1,1 +1,1 @@
-alexfozor/flaresolverr:pr-1300-experimental
+golangboyme/wxocr
