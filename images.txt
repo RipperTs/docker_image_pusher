@@ -1,1 +1,1 @@
-breezedeus/cnocr:latest
+lmq8267/vnt:latest
