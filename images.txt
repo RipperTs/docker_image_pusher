@@ -1,1 +1,2 @@
-zimpel1/tv-host
+elasticsearch:7.10.0
+kibana:7.10.0
