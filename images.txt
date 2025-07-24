@@ -1,2 +1,1 @@
-weishaw/claude-relay-service:v1.1.8
-weishaw/claude-relay-service:latest
+redis:7-alpine
