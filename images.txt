@@ -1,2 +1,1 @@
-weishaw/claude-relay-service:v1.1.63
-weishaw/claude-relay-service:latest
+tindy2013/subconverter:latest
