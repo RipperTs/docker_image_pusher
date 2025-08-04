@@ -1,1 +1,2 @@
-openjdk:8-jdk-alpine
+weishaw/claude-relay-service:v1.1.69
+weishaw/claude-relay-service:latest
