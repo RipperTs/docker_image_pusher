@@ -1,2 +1,3 @@
-weishaw/claude-relay-service:v1.1.73
-weishaw/claude-relay-service:latest
+weishaw/claude-relay-service:v1.1.65
+weishaw/claude-relay-service:v1.1.67
+weishaw/claude-relay-service:v1.1.68
