@@ -1,2 +1,1 @@
-golang:1.18-alpine
-alpine:latest
+syncthing/relaysrv:latest
