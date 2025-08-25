@@ -1,1 +1,1 @@
-syncthing/relaysrv:latest
+cp0204/quark-auto-save:latest
