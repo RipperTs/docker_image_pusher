@@ -1,1 +1,1 @@
-microsoft/mssql-server-linux
+docker.io/1panel/php:7.4.33-fpm
