@@ -1,1 +1,1 @@
-docker.io/1panel/php:7.4.33-fpm
+homeassistant/home-assistant:latest
