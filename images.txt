@@ -1,1 +1,1 @@
-xxnuo/mtranserver:2.1.1
+ghcr.io/labring/fastgpt-mcp_server:latest
