@@ -1,1 +1,1 @@
-ghcr.io/labring/fastgpt-mcp_server:latest
+keking/kkfileview:4.1.0
