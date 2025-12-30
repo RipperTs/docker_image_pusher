@@ -1,1 +1,1 @@
-wuhr/vram-calculator:latest
+docker:27-cli
