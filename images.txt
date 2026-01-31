@@ -1,1 +1,3 @@
-razeencheng/iosbackup
+postgres:16-alpine
+rustfs/rustfs:latest
+minio/mc:latest
