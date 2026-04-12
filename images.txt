@@ -1,3 +1,2 @@
-ghcr.io/astral-sh/uv:latest
-ghcr.io/poco-ai/sandbox:lite
-ghcr.io/poco-ai/sandbox:full
+vllm/vllm-openai:v0.19.0-cu130-ubuntu2404
+vllm/vllm-openai:gemma4-cu130
