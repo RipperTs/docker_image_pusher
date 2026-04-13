@@ -1,1 +1,2 @@
-pgvector/pgvector:pg16
+qdrant/qdrant:latest
+neo4j:5.26.4
