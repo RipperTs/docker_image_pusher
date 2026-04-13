@@ -1,3 +1,1 @@
-vllm/vllm-openai:minimax27-cu130
-vllm/vllm-openai:glm51-cu130
-vllm/vllm-openai:latest-cu130
+pgvector/pgvector:pg16
