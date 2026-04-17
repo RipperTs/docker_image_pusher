@@ -1,3 +1,1 @@
-hugegraph/pd:1.6.0
-hugegraph/store:1.6.0
-hugegraph/server:1.6.0
+hugegraph/hubble
