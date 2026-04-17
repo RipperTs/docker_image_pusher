@@ -1,2 +1,3 @@
-qdrant/qdrant:latest
-neo4j:5.26.4
+hugegraph/pd
+hugegraph/store
+hugegraph/server
