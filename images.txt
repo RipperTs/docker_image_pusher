@@ -1,1 +1,2 @@
-slimerl/slime:latest
+rustfs/rustfs:latest
+rustfs/rustfs:1.0.0-beta.4
