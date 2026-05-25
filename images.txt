@@ -1,2 +1,1 @@
-rustfs/rustfs:latest
-rustfs/rustfs:1.0.0-beta.4
+rustfs/rustfs:1.0.0-alpha.82
