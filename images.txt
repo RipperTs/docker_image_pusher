@@ -1,1 +1,1 @@
-gvenzl/oracle-free
+lancelrq/qwen3-asr-service:latest-vllm
