@@ -1,1 +1,1 @@
-lancelrq/qwen3-asr-service:latest-vllm
+ghcr.io/umami-software/umami:latest
