@@ -1,1 +1,1 @@
-public.ecr.aws/zinclabs/openobserve:latest
+otel/opentelemetry-collector-contrib:0.104.0
