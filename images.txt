@@ -1,2 +1,1 @@
 weishaw/sub2api:latest
-weishaw/sub2api:0.1.151
