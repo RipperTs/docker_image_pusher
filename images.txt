@@ -1,2 +1,2 @@
-weishaw/sub2api:latest
-gotenberg/gotenberg:8
+postgres:17.11
+sonarqube:26.8.0.126808-community
