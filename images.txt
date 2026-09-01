@@ -1,2 +1,2 @@
-postgres:17.11
-sonarqube:26.8.0.126808-community
+vllm/vllm-openai:v0.28.0
+lmsysorg/sglang:latest-cu130
