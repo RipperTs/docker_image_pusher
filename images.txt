@@ -1,3 +1,1 @@
-paradedb/paradedb:v0.22.2-pg17
-neo4j:2025.10.1
-redis:7.0-alpine
+eceasy/cli-proxy-api:latest
