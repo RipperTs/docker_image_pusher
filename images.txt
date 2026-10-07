@@ -1,7 +1,1 @@
-wslmf/weknora-sandbox:latest
-wslmf/weknora-sandbox:latest-cube
-wslmf/weknora-ui
-wslmf/weknora-odl-hybrid
-wslmf/weknora-docreader
-wslmf/weknora-app
-wslmf/weknora-mcp
+eceasy/cli-proxy-api:latest
