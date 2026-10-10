@@ -1,1 +1,1 @@
-eceasy/cli-proxy-api:latest
+docker.io/library/debian:bookworm-slim
