@@ -1,1 +1,1 @@
-docker.io/library/debian:bookworm-slim
+ghcr.io/dofastted/vm2api
