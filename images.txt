@@ -1,1 +1,1 @@
-ghcr.io/dofastted/vm2api
+ghcr.io/dofastted/kin-os-ubuntu:24.04
