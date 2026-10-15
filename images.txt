@@ -1,1 +1,1 @@
-ghcr.io/dofastted/kin-os-ubuntu:24.04
+ghcr.io/xiaozhou26/icloud-hme:latest
