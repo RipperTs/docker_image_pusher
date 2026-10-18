@@ -1,1 +1,1 @@
-ghcr.io/xiaozhou26/icloud-hme:latest
+openlistteam/openlist:latest
