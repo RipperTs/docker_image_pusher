@@ -1,1 +1,2 @@
 gotenberg/gotenberg:9
+gotenberg/gotenberg:8
