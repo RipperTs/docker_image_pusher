@@ -1,2 +1,1 @@
-metacubex/mihomo:v1.19.23
-ghcr.io/dofastted/vm2api:v1.3.182
+gotenberg/gotenberg:9
